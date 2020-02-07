@@ -155,6 +155,7 @@ Currently, all the applications listed here load the data and javascript code fr
 
 STATUS: closed down as per 1. of September 2016.
 > we have taken a strategic decision to only supply our platform and services to the enterprise segment
+
 Source: https://www.grahamcluley.com/secure-email-service-ghostmail-shutting-fear-abused/
 
 Ghostmail is a web-based email provider using client-side encryption in the browser.
